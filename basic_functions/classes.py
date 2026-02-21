@@ -13,3 +13,4 @@ for x in range (10):
     print(f'Square stats: {x}')
     Square(x).print_stats()
 
+
